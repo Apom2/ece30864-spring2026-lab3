@@ -1,2 +1,3 @@
 1. Pros: Encourages team work, reduces waste and improves efficiency. Cons: Can get lost among all the tasks and scope of the project, Relies on communication heavily
 2. Scrum Master is more like a project/team manager that helps keep the team moving and the group working together. The Product Owner focuses more on the actual product being worked on and making sure its working best.
+3. Sprint Planning, which is the initial planning meeting, the Sprint Review, which takes place at the end of a sprint to demonstrate the project to those who need to see it. The sprint retrospective phase is how the team views that feedback and plans to improve itself.
